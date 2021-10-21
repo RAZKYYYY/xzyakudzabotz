@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RAZKYYYY/xzyakudzabot"
+    "url": "git+https://github.com/RAZKYYYY/xzyakudzabotz"
   },
   "keywords": [
     "k"
@@ -42,7 +42,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RAZKYYYY/xzyakudzabot/issues"
+    "url": "https://github.com/RAZKYYYY/xzyakudzabotz/issues"
   },
-  "homepage": "https://github.com/RAZKYYYY/xzyakudzabot#readme"
+  "homepage": "https://github.com/RAZKYYYY/xzyakudzabotz#readme"
 }
