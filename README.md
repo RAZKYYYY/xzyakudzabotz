@@ -1,6 +1,6 @@
 # TERMUX
 
-> download termux
+# >download termux
 > buka
 > pkg install git
 > pkg install ffmpeg
